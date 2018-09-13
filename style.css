@@ -12,18 +12,6 @@ body {
   height: inherit;
 }
 
-h1 {
-  font-size: 2rem;
-  letter-spacing: -1px;
-  position: absolute;
-  margin: 0;
-  top: -4px;
-  right: 5px;
-
-  color: black;
-  text-shadow: 0 0 4px white;
-}
-
 .centered {
 
   line-height: 200px;
